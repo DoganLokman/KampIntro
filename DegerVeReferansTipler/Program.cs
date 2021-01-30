@@ -28,6 +28,10 @@ namespace DegerVeReferansTipler
             //array, class, interface = referans tip
 
 
+
+
+
+
         }
     }
 }

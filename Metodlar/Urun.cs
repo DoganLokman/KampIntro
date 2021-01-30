@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Metodlar
 {
-    class Urun : UrunBase
+    class Urun
     {
         //Property - Özellik
         public int Id { get; set; }
@@ -12,6 +12,8 @@ namespace Metodlar
         public double Fiyati { get; set; }
         public string Aciklama { get; set; }
         public int StokAdedi { get; set; }
+
+
 
     }
 }

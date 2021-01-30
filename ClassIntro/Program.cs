@@ -50,5 +50,6 @@ namespace ClassIntro
         public string Egitmen { get; set; }
 
         public int IzlenmeOrani { get; set; }
+
     }
 }

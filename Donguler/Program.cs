@@ -40,6 +40,8 @@ namespace Donguler
 
             Console.WriteLine("---foreach bitti---");
             Console.WriteLine("Sayfa Sonu - footer");
+
+
         }
     }
 }
